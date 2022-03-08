@@ -1,16 +1,56 @@
 {
-  "posts":[
+  "productType": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "type": "Cachorro"
     }
   ],
-  "comments" : [
+  "productBrand": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "brand": "Pedigree"
+    }
+  ],
+  "products": [
+    {
+      "id" : 1,
+      "imageUrl": "https://i.imgur.com/wRHdm0d.jpg",
+      "name": "Ração Pedigree",
+      "description": "Carne Frango e Cereais Para Cães Adultos Raças Médias e Grandes",
+      "price" : 24.99,
+      "inventory": 30,
+      "productTypeId": 1,
+      "productBrandeId": 1
+    },
+    {
+      "id" : 2,
+      "imageUrl": "https://i.imgur.com/UkkQV7a.jpg",
+      "name": "Ração Pedigree",
+      "description": "Equilíbrio Natural para Cães Adultos de Raças Médias e Grandes",
+      "price" : 26.99,
+      "inventory": 25,
+      "productTypeId": 1,
+      "productBrandeId": 1
+    },
+    {
+      "id" : 3,
+      "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
+      "name": "Ração Pedigree",
+      "description": "Equilíbrio Natural para Cães Adultos de Raças Pequenas",
+      "price" : 34.99,
+      "inventory": 35,
+      "productTypeId": 1,
+      "productBrandeId": 1
+    },
+    {
+      "id" : 4,
+      "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
+      "name": "Ração Pedigree",
+      "description": "Equilíbrio Natural para Cães Filhotes",
+      "price" : 32.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 1
     }
   ]
 }
