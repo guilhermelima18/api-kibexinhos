@@ -1,22 +1,45 @@
 {
-  "productType": [
+  "product_type": [
     {
       "id": 1,
-      "type": "Cachorro"
+      "type": "Ração de cachorro"
+    },
+    {
+      "id": 2,
+      "type": "Ração de gato"
+    },
+    {
+      "id": 3,
+      "type": "Ração de peixe"
     }
   ],
-  "productBrand": [
+  "product_brand": [
     {
       "id": 1,
       "brand": "Pedigree"
+    },
+    {
+      "id": 2,
+      "brand": "Special Dogs"
+    },
+    {
+      "id": 3,
+      "brand": "Royal Canin"
+    }
+  ],
+  "cart_orders": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 2,
+      "total": 49.98
     }
   ],
   "products": [
     {
       "id" : 1,
       "imageUrl": "https://i.imgur.com/wRHdm0d.jpg",
-      "name": "Ração Pedigree",
-      "description": "Carne Frango e Cereais Para Cães Adultos Raças Médias e Grandes",
+      "name": "Ração Pedigree Carne Frango e Cereais Para Cães Adultos Raças Médias e Grandes",
       "price" : 24.99,
       "inventory": 30,
       "productTypeId": 1,
@@ -25,8 +48,7 @@
     {
       "id" : 2,
       "imageUrl": "https://i.imgur.com/UkkQV7a.jpg",
-      "name": "Ração Pedigree",
-      "description": "Equilíbrio Natural para Cães Adultos de Raças Médias e Grandes",
+      "name": "Ração Pedigree Equilíbrio Natural para Cães Adultos de Raças Médias e Grandes",
       "price" : 26.99,
       "inventory": 25,
       "productTypeId": 1,
@@ -35,8 +57,7 @@
     {
       "id" : 3,
       "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
-      "name": "Ração Pedigree",
-      "description": "Equilíbrio Natural para Cães Adultos de Raças Pequenas",
+      "name": "Ração Pedigree Equilíbrio Natural para Cães Adultos de Raças Pequenas",
       "price" : 34.99,
       "inventory": 35,
       "productTypeId": 1,
@@ -45,8 +66,7 @@
     {
       "id" : 4,
       "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
-      "name": "Ração Pedigree",
-      "description": "Equilíbrio Natural para Cães Filhotes",
+      "name": "Ração Pedigree Equilíbrio Natural para Cães Filhotes",
       "price" : 32.99,
       "inventory": 20,
       "productTypeId": 1,
