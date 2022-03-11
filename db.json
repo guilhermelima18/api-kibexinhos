@@ -27,49 +27,115 @@
       "brand": "Royal Canin"
     }
   ],
-  "cart_orders": [
-    {
-      "id": 1,
-      "productId": 1,
-      "quantity": 2
-    }
-  ],
+  "cart_orders": [],
   "products": [
     {
-      "id" : 1,
+      "id": 1,
       "imageUrl": "https://i.imgur.com/wRHdm0d.jpg",
       "name": "Ração Pedigree Carne Frango e Cereais Para Cães Adultos Raças Médias e Grandes",
-      "price" : 24.99,
+      "price": 24.99,
       "inventory": 30,
       "productTypeId": 1,
       "productBrandeId": 1
     },
     {
-      "id" : 2,
+      "id": 2,
       "imageUrl": "https://i.imgur.com/UkkQV7a.jpg",
       "name": "Ração Pedigree Equilíbrio Natural para Cães Adultos de Raças Médias e Grandes",
-      "price" : 26.99,
+      "price": 26.99,
       "inventory": 25,
       "productTypeId": 1,
       "productBrandeId": 1
     },
     {
-      "id" : 3,
+      "id": 3,
       "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
       "name": "Ração Pedigree Equilíbrio Natural para Cães Adultos de Raças Pequenas",
-      "price" : 34.99,
+      "price": 34.99,
       "inventory": 35,
       "productTypeId": 1,
       "productBrandeId": 1
     },
     {
-      "id" : 4,
-      "imageUrl": "https://i.imgur.com/pSzOfxt.jpg",
+      "id": 4,
+      "imageUrl": "https://i.imgur.com/3sar2vS.jpg",
       "name": "Ração Pedigree Equilíbrio Natural para Cães Filhotes",
-      "price" : 32.99,
+      "price": 37.99,
       "inventory": 20,
       "productTypeId": 1,
       "productBrandeId": 1
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.imgur.com/y4V6sXA.jpg",
+      "name": "Ração Royal Canin Maxi Dermacomfort - Cães Adultos",
+      "price": 44.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 3
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.imgur.com/4ERFIio.jpg",
+      "name": "Ração Royal Canin Maxi Light - Cães Adultos",
+      "price": 45.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 3
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.imgur.com/SbyeonX.jpg",
+      "name": "Ração Royal Canin Maxi - Cães Adultos",
+      "price": 42.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 3
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.imgur.com/wfOY5R0.jpg",
+      "name": "Ração Royal Canin Medium 10+ Cães Idosos",
+      "price": 38.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 3
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.imgur.com/qJGVQQd.jpg",
+      "name": "Ração Special Dog Ultralife para Cães Adultos Raças Pequenas Sabor Frango e Arroz",
+      "price": 27.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 2
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://i.imgur.com/fxsN7xX.jpg",
+      "name": "Ração Special Dog para Cães Adultos Sabor Carne Plus",
+      "price": 28.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 2
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://i.imgur.com/nkkQg6J.jpg",
+      "name": "Ração Premium Special Dog para Cães Adultos Gold Sabor Frango e Carne",
+      "price": 30.99,
+      "inventory": 20,
+      "productTypeId": 1,
+      "productBrandeId": 2
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://i.imgur.com/MMfYmVz.jpg",
+      "name": "Ração Premium Special Dog para Cães Adultos Vegetais Pro",
+      "price": 34.99,
+      "inventory": 10,
+      "productTypeId": 1,
+      "productBrandeId": 2
     }
   ]
 }
