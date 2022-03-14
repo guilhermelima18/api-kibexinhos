@@ -36,7 +36,7 @@
       "price": 24.99,
       "inventory": 30,
       "productTypeId": 1,
-      "productBrandeId": 1
+      "productBrandId": 1
     },
     {
       "id": 2,
@@ -45,7 +45,7 @@
       "price": 26.99,
       "inventory": 25,
       "productTypeId": 1,
-      "productBrandeId": 1
+      "productBrandId": 1
     },
     {
       "id": 3,
@@ -54,7 +54,7 @@
       "price": 34.99,
       "inventory": 35,
       "productTypeId": 1,
-      "productBrandeId": 1
+      "productBrandId": 1
     },
     {
       "id": 4,
@@ -63,7 +63,7 @@
       "price": 37.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 1
+      "productBrandId": 1
     },
     {
       "id": 5,
@@ -72,7 +72,7 @@
       "price": 44.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 3
+      "productBrandId": 3
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
       "price": 45.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 3
+      "productBrandId": 3
     },
     {
       "id": 7,
@@ -90,7 +90,7 @@
       "price": 42.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 3
+      "productBrandId": 3
     },
     {
       "id": 8,
@@ -99,7 +99,7 @@
       "price": 38.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 3
+      "productBrandId": 3
     },
     {
       "id": 9,
@@ -108,7 +108,7 @@
       "price": 27.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 2
+      "productBrandId": 2
     },
     {
       "id": 10,
@@ -117,7 +117,7 @@
       "price": 28.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 2
+      "productBrandId": 2
     },
     {
       "id": 11,
@@ -126,7 +126,7 @@
       "price": 30.99,
       "inventory": 20,
       "productTypeId": 1,
-      "productBrandeId": 2
+      "productBrandId": 2
     },
     {
       "id": 12,
@@ -135,7 +135,7 @@
       "price": 34.99,
       "inventory": 10,
       "productTypeId": 1,
-      "productBrandeId": 2
+      "productBrandId": 2
     }
   ]
 }
